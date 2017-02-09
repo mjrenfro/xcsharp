@@ -1,6 +1,7 @@
 ## Notes for compiling in Ubuntu using Mono
 
 ``mcs file.cs
+
    mono file.exe``
 
 # xCSharp
