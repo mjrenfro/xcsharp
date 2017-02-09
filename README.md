@@ -1,3 +1,8 @@
+## Notes for compiling in Ubuntu using Mono
+
+``mcs file.cs
+   mono file.exe``
+
 # xCSharp
 
 [![Build Status](https://travis-ci.org/exercism/xcsharp.svg?branch=master)](https://travis-ci.org/exercism/xcsharp) [![Build status](https://ci.appveyor.com/api/projects/status/r7o9t6gjoc09jpmn/branch/master?svg=true)](https://ci.appveyor.com/project/ErikSchierboom/xcsharp-c03a2/branch/master) [![CircleCI](https://circleci.com/gh/exercism/xcsharp.svg?style=svg)](https://circleci.com/gh/exercism/xcsharp)
